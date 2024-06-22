@@ -1,11 +1,11 @@
 def factorial(n):
     p = 1
-    #階乘計算
+    # 階乘計算
     for i in range(n):
         p = p * (i+1)
     return p
 
-#C(n,l)公式
+# C(n,k)公式
 def c(n, k):
     return factorial(n) / (factorial(k)*factorial(n-k))
 
