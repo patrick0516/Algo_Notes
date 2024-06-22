@@ -1,5 +1,5 @@
 ## 查表法
-用簡單翻譯系統做例子
+用簡單翻譯系統做例子，參考 e2c.py。
 
 ## 費氏數列 (Fibonacci sequence)
 採用 recursion  
