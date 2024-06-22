@@ -22,3 +22,4 @@ function: $F(n) = F(n-1) + F(n-2), (n>=3, n \in N)$
 根據巴斯卡定理的公式推演
 $C_{m-1}^{n-1} + C_{m}^{n-1} = C_{m}^{n}$
 
+解釋 [巴斯卡定理](https://tpdjdje0525.medium.com/%E5%B7%B4%E6%96%AF%E5%8D%A1%E5%AE%9A%E7%90%86-%E6%9C%89%E4%BB%80%E9%BA%BC%E6%84%8F%E7%BE%A9-21690183d2d1)
