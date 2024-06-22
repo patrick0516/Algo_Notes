@@ -2,7 +2,7 @@
 用簡單翻譯系統做例子
 
 ## 費氏數列 (Fibonacci sequence)
-採用 recursion
+採用 recursion \n
 function: $F(n) = F(n-1) + F(n-2),n>=3 n \in N$
 
 
