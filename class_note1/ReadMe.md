@@ -3,6 +3,6 @@
 
 ## 費氏數列 (Fibonacci sequence)
 採用 recursion  
-function: $F(n) = F(n-1) + F(n-2),n>=3 n \in N$
+function: $F(n) = F(n-1) + F(n-2), (n>=3, n \in N)$
 
 
