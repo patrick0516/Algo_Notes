@@ -18,3 +18,9 @@ function: $F(n) = F(n-1) + F(n-2), (n>=3, n \in N)$
 
 ### recursion 版
 參閱 cnkR.py
+
+根據巴斯卡定理的公式推演
+$$
+\textcolor{blue}{C_{m-1}^{n-1}} + \textcolor{red}{C_{m}^{n-1}} = \textcolor{black}{C_{m}^{n}}
+$$
+
