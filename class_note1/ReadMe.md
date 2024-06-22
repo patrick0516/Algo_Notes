@@ -11,9 +11,10 @@ function: $F(n) = F(n-1) + F(n-2), (n>=3, n \in N)$
 參閱 fibonacci_lookup.py
 
 ## C(n,k)
-參閱cnk.py
+參閱 cnk.py
 
 ### [巴斯卡三角形](https://zh.wikipedia.org/zh-tw/杨辉三角形)
 <img width="484" alt="image" src="https://github.com/patrick0516/Algo_Notes/assets/109636871/b538b253-0986-41b2-8e96-afef0bd936df">
 
-
+### recursion 版
+參閱 cnkR.py
