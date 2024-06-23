@@ -26,3 +26,6 @@ $C_{m-1}^{n-1} + C_{m}^{n-1} = C_{m}^{n}$
 
 ### recursion 版查表法改良
 參閱 cnkR_lookup.py
+
+## power 2n
+參閱 power2n.py。
